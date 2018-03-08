@@ -174,8 +174,8 @@
 #define Hot_ABS 		240
 #define Bed_ABS 		100
 
-#define Hot_PETG 		230
-#define Bed_PETG 		 75
+#define Hot_PETG 		245
+#define Bed_PETG 		 85
 
 /**
  * Fan Soft PWM. Use software PWM to drive the fan, as for the heaters. This uses a very low frequency
